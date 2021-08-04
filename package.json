@@ -1,7 +1,7 @@
 {
-  "name": "example",
+  "name": "inversify-example",
   "version": "1.0.0",
-  "description": "Example of nodejs project with typescript compiller",
+  "description": "Example of inversifyJS with TypeScript",
   "main": "index.js",
   "scripts": {
     "start": "tsc && node dist/index.js"
